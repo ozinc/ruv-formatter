@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<schedule saved="2016-09-08 14:36" saved-by="Kringla 3.1" xml-version="2.6.0">
+  <service service-id="1" service-name="RÚV" uri="ruv.ruv.is" date="2016-09-08">
+    <event event-id="4858083" serie-id="18199" time="2016-09-08 11:45:00" start-time="2016-09-08 11:45:33" end-time="2016-09-08 15:36:53" duration="03:51:20" mark="no">
+      <title>ÓL fatlaðra 2016: Setningarathöfn</title>
+      <original-title />
+      <description><![CDATA[Upptaka frá setningarathöfn Ólympíumóts fatlaðra í Ríó.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="18" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/18199/18199-1.jpg</image>
+      <podcast-category>Sports &amp; Recreation</podcast-category>
+      <rights reference="018199-0018">
+        <rights type="vod" action="denied" />
+        <rights type="web" action="denied" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+    </event>
+    <event event-id="4857497" serie-id="18329" time="2016-09-08 16:20:00" start-time="2016-09-08 16:20:00" end-time="2016-09-08 17:05:41" duration="00:45:41" mark="no">
+      <title>Violetta</title>
+      <original-title />
+      <description><![CDATA[Disneyþáttaröð fyrir börn og unglinga um hina hæfileikaríku Violettu, sem snýr aftur heim til Buenos Aires eftir að hafa búið um tíma í Evrópu. Aðalhlutverk: Diego Ramos, Martina Stoessel og Jorge Blanco. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="26" number-of-episodes="26" true="26" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/18329/18329-1.jpg</image>
+      <details id="18329">
+        <series-title>Violetta</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Disneyþáttaröð um hina hæfileikaríku Violettu, sem snýr aftur til heimalands síns, Buenos Aires eftir að hafa búið um tíma í Evrópu. Aðalhlutverk: Diego Ramos, Martina Stoessel og Jorge Blanco.</p>
+        </series-description>
+        <series-short-description>
+          <p>Disneyþáttaröð um hina hæfileikaríku Violettu.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="018329-0026">
+        <rights type="vod" action="allowed" pattern="+7d" expires="2016-09-15" />
+        <rights type="web" action="allowed" pattern="+7d" expires="2016-09-15" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2014-11-08 18:07:22">
+        <file format="windowsmedia" filename="4776538$1.wmv" folder="" start="16:20:00:00" expires="2014-11-11" quality="240" scopevalue="1" scope="domestic" event="4776538" />
+        <file format="vod" filename="4776538$6.ts" folder="" start="16:20:00:00" expires="2014-11-11" quality="240" scopevalue="1" scope="domestic" event="4776538" />
+        <file format="flash" filename="4776538R0.mp4" folder="" start="16:20:00:00" expires="2014-11-11" quality="240" scopevalue="1" scope="domestic" event="4776538" />
+        <file format="flash" filename="4776538K0.mp4" folder="" start="16:20:00:00" expires="2014-11-11" quality="187" scopevalue="1" scope="domestic" event="4776538" />
+        <file format="flash" filename="4776538M1.mp4" folder="" start="16:20:00:00" expires="2014-11-11" quality="0" scopevalue="1" scope="domestic" event="4776538" />
+        <file format="flash" filename="4775054M1.mp4" folder="" start="17:20:00:21" expires="2014-11-15" quality="0" scopevalue="1" scope="domestic" event="4775054" />
+      </files>
+    </event>
+    <event event-id="4856121" serie-id="21520" time="2016-09-08 17:05:00" start-time="2016-09-08 17:05:49" end-time="2016-09-08 17:46:45" duration="00:40:56" mark="no">
+      <title>Sjöundi áratugurinn - Heimur á heljarþröm</title>
+      <original-title>The Sixties</original-title>
+      <description><![CDATA[Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="10" true="2" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="4">Fræðsla</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21520/21520-1.jpg</image>
+      <details id="21520">
+        <series-title>Sjöundi áratugurinn</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar.</p>
+        </series-description>
+        <series-short-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Heimildarþáttaröð um hinn byltingarkennda sjöunda áratug síðustu aldar. Þátturinn fjallar um ógn kjarnorkusprengjunnar og Kalda stríðsins í Bandaríkjunum.</p>
+        </episode-description>
+        <episode-short-description>
+          <p>Þátturinn fjallar um ógn kjarnorkusprengjunnar og Kalda stríðsins í Bandaríkjunum.</p>
+        </episode-short-description>
+      </details>
+      <podcast-category>Science &amp; Medicine</podcast-category>
+      <rights reference="021520-0002">
+        <rights type="vod" action="allowed" pattern="+14d" expires="2016-09-22" />
+        <rights type="web" action="allowed" pattern="+14d" expires="2016-09-22" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2016-01-12 21:08:39">
+        <file format="flash" filename="4832067R0.mp4" folder="" start="20:16:07:03" expires="2016-01-26" quality="240" scopevalue="1" scope="domestic" event="4832067" />
+        <file format="windowsmedia" filename="4832067$1.wmv" folder="" start="20:16:07:03" expires="2016-01-26" quality="240" scopevalue="1" scope="domestic" event="4832067" />
+        <file format="vod" filename="4832067$6.ts" folder="" start="20:16:07:03" expires="2016-01-26" quality="240" scopevalue="1" scope="domestic" event="4832067" />
+        <file format="flash" filename="4832067M1.mp4" folder="" start="20:16:07:03" expires="2016-01-26" quality="0" scopevalue="1" scope="domestic" event="4832067" />
+      </files>
+    </event>
+    <event event-id="4853787" serie-id="21499" time="2016-09-08 17:50:00" start-time="2016-09-08 17:50:57" end-time="2016-09-08 17:58:57" duration="00:08:00" mark="no">
+      <title>Táknmálsfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="437" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21499/21499-1.jpg</image>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021499-0437">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4833103" serie-id="" time="2016-09-08 18:00:00" start-time="2016-09-08 18:00:00" end-time="2016-09-08 18:00:00" duration="00:00:00" mark="no">
+      <title>KrakkaRÚV</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="127" number-of-episodes="386" true="118" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <rights reference="4833103">
+        <rights type="vod" action="denied" />
+        <rights type="web" action="denied" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+    </event>
+    <event event-id="4835018" serie-id="18499" time="2016-09-08 18:01:00" start-time="2016-09-08 18:00:12" end-time="2016-09-08 18:11:21" duration="00:11:08" mark="yes">
+      <title>Eðlukrúttin</title>
+      <original-title>Dinopaws</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="32" number-of-episodes="52" true="33" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/18499/18499-1.jpg</image>
+      <details id="18499">
+        <series-title>Eðlukrúttin</series-title>
+        <series-original-title>Dinopaws</series-original-title>
+        <series-description>
+          <p>Ólíku eðlukrúttin Bubbi, Gunna og Tobbi eru fjörugir og skemmtilegir vinir sem búa í ævintýraheimi þar sem ekkert er ómögulegt.</p>
+          <p>Aldur: 3-7 ára.</p>
+          <p>Aðgengilegt í viku á vefnum.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="018499-0033">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+30d" expires="2016-10-08" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2015-08-22 08:23:39">
+        <file format="windowsmedia" filename="4779501$9.wmv" folder="" start="07:37:02:13" expires="2015-08-29" quality="240" scopevalue="1" scope="domestic" event="4779501" />
+        <file format="vod" filename="4779501$6.ts" folder="" start="07:37:02:13" expires="2015-08-29" quality="240" scopevalue="1" scope="domestic" event="4779501" />
+        <file format="flash" filename="4779501R12.mp4" folder="" start="07:37:02:13" expires="2015-08-29" quality="240" scopevalue="1" scope="domestic" event="4779501" />
+        <file format="flash" filename="4779501K0.mp4" folder="" start="07:37:02:13" expires="2015-08-29" quality="187" scopevalue="1" scope="domestic" event="4779501" />
+        <file format="flash" filename="4779501M1.mp4" folder="" start="07:37:02:13" expires="2015-08-29" quality="0" scopevalue="1" scope="domestic" event="4779501" />
+      </files>
+    </event>
+    <event event-id="4856256" serie-id="18988" time="2016-09-08 18:12:00" start-time="2016-09-08 18:11:21" end-time="2016-09-08 18:23:44" duration="00:12:23" mark="yes">
+      <title>Vinabær Danna tígurs</title>
+      <original-title>Daniel Tiger&apos;s Neighbourhood</original-title>
+      <description />
+      <short-description />
+      <rating />
+      <episode number="3" number-of-episodes="12" true="32" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/18988/18988-1.jpg</image>
+      <details id="18988">
+        <series-title>Vinabær Danna tígurs</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Danni tígur er þáttaröð sem kennir börnum að túlka tilfinningar sínar. Hvenær upplifa þau sorg, reiði og hvenær eru þau þakklát. Danni notar tónlist og syngur um það sem hann upplifir sem leyfir börnum að tileinka sér það frekar. Þátturinn er ætlaður leikskólabörnum og kennir tilfinningagrein og sjálfsvirðingu sem og virðingu fyrir öðrum. Vinabær Danna tígurs er aðgengilegt í Sarpinum í viku í senn.</p>
+        </series-description>
+        <series-short-description />
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="018988-0032">
+        <rights type="vod" action="allowed" pattern="+7d" expires="2016-09-15" />
+        <rights type="web" action="allowed" pattern="+7d" expires="2016-09-15" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2015-06-08 04:57:08">
+        <file format="flash" filename="4765957R7.mp4" folder="" start="07:53:19:08" expires="2015-06-14" quality="240" scopevalue="1" scope="domestic" event="4765957" />
+        <file format="vod" filename="4765957$6.ts" folder="" start="07:53:19:08" expires="2015-06-14" quality="240" scopevalue="1" scope="domestic" event="4765957" />
+        <file format="flash" filename="4765957K0.mp4" folder="" start="07:53:19:08" expires="2015-06-14" quality="187" scopevalue="1" scope="domestic" event="4765957" />
+        <file format="flash" filename="4765957M1.mp4" folder="" start="07:53:19:08" expires="2015-06-14" quality="0" scopevalue="1" scope="domestic" event="4765957" />
+        <file format="windowsmedia" filename="4765957$1.wmv" folder="" start="18:11:21:01" expires="2015-06-14" quality="0" scopevalue="1" scope="domestic" event="4765957" />
+      </files>
+    </event>
+    <event event-id="4856303" serie-id="21814" time="2016-09-08 18:25:00" start-time="2016-09-08 18:23:44" end-time="2016-09-08 18:46:04" duration="00:22:20" mark="yes">
+      <title>Sanjay og Craig</title>
+      <original-title>Sanjay and Craig</original-title>
+      <description><![CDATA[Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.]]></description>
+      <short-description />
+      <rating />
+      <episode number="18" number-of-episodes="20" true="11" />
+      <subevent>yes</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21814/21814-1.jpg</image>
+      <details id="21814">
+        <series-title>Sanjay og Craig</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-description>
+        <series-short-description>
+          <p>Sanjay er 12 ára strákur sem á frekar óvenjulegt gæludýr og saman lenda þeir í ýmsum ævintýrum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="021814-0011">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+30d" expires="2016-10-08" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2016-04-05 19:03:53">
+        <file format="flash" filename="4847123R0.mp4" folder="" start="18:23:34:16" expires="2016-05-05" quality="240" scopevalue="1" scope="domestic" event="4847123" />
+        <file format="windowsmedia" filename="4847123$1.wmv" folder="" start="18:23:34:16" expires="2016-05-05" quality="240" scopevalue="1" scope="domestic" event="4847123" />
+        <file format="vod" filename="4847123$6.ts" folder="" start="18:23:34:16" expires="2016-05-05" quality="240" scopevalue="1" scope="domestic" event="4847123" />
+        <file format="vod" filename="4847129$6.ts" folder="" start="18:27:44:06" expires="2016-05-05" quality="240" scopevalue="1" scope="domestic" event="4847129" />
+        <file format="flash" filename="4847129R0.mp4" folder="" start="18:27:44:06" expires="2016-05-05" quality="240" scopevalue="1" scope="domestic" event="4847129" />
+        <file format="flash" filename="4847129M1.mp4" folder="" start="18:27:44:06" expires="2016-05-05" quality="0" scopevalue="1" scope="domestic" event="4847129" />
+      </files>
+    </event>
+    <event event-id="4855420" serie-id="23578" time="2016-09-08 18:50:00" start-time="2016-09-08 18:49:31" end-time="2016-09-08 18:53:31" duration="00:04:00" mark="no">
+      <title>Krakkafréttir</title>
+      <original-title>8. september 2016</original-title>
+      <description><![CDATA[Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón Ísgerður Elfa Gunnarsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="4" number-of-episodes="200" true="4" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="1">Börn</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/23578/23578-1.jpg</image>
+      <details id="21246">
+        <series-title>Krakkafréttir</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára. Umsjón: Sigyn Blöndal og Ísgerður Elfa Gunnarsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Fréttaþáttur fyrir börn á aldrinum 8-12 ára.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Comedy</podcast-category>
+      <rights reference="023578-0004">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4848947" serie-id="21177" time="2016-09-08 19:00:00" start-time="2016-09-08 19:00:00" end-time="2016-09-08 19:23:00" duration="00:23:00" mark="no">
+      <title>Fréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="376" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21177/21177-1.jpg</image>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021177-0376">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+365d" expires="2017-09-08" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4849670" serie-id="21171" time="2016-09-08 19:25:00" start-time="2016-09-08 19:25:39" end-time="2016-09-08 19:30:39" duration="00:05:00" mark="no">
+      <title>Íþróttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="257" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21171/21171-1.jpg</image>
+      <podcast-category>Sports &amp; Recreation</podcast-category>
+      <rights reference="021171-0257">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4849091" serie-id="21179" time="2016-09-08 19:30:00" start-time="2016-09-08 19:30:45" end-time="2016-09-08 19:33:45" duration="00:03:00" mark="no">
+      <title>Veður</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="371" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21179/21179-1.jpg</image>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021179-0371">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4853560" serie-id="21181" time="2016-09-08 19:35:00" start-time="2016-09-08 19:35:20" end-time="2016-09-08 20:05:20" duration="00:30:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="319" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21181/21181-1.jpg</image>
+      <details id="21181">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021181-0319">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4853724" serie-id="18675" time="2016-09-08 20:10:00" start-time="2016-09-08 20:10:39" end-time="2016-09-08 20:41:54" duration="00:31:15" mark="no">
+      <title>Steinsteypuöldin</title>
+      <original-title />
+      <description><![CDATA[Steinsteypuöldin er þáttaröð í umsjón Egils Helgasonar og Péturs H. Ármannssonar. Þar er rakin saga byggingarlistar og borgarskipulags í Reykjavík á tuttugustu öld. Þáttaröðin hefst 1915, í stórbrunanum þar sem eyddust fjölmörg timburhús í bænum. Þá hófst tími steinsteypuhúsanna. Dagskrárgerð: Ragnheiður Thorsteinsson.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="5" true="2" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>yes</closed>
+      </subtitles>
+      <category value="6">Íslenskir þættir</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/18675/18675-1.jpg</image>
+      <details id="18675">
+        <series-title>Steinsteypuöldin</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Steinsteypuöldin er þáttaröð í umsjón Egils Helgasonar og Péturs H. Ármannssonar. Þar er rakin saga byggingarlistar og borgarskipulags í Reykjavík á tuttugustu öld. Þáttaröðin hefst 1915, í stórbrunanum þar sem eyddust fjölmörg timburhús í bænum. Þá hófst tími steinsteypuhúsanna. Dagskrárgerð: Ragnheiður Thorsteinsson.</p>
+        </series-description>
+        <series-short-description>
+          <p>Steinsteypuöldin er þáttaröð í umsjón Egils Helgasonar og Péturs H. Ármannssonar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Science &amp; Medicine</podcast-category>
+      <rights reference="018675-0002">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4851022" serie-id="22466" time="2016-09-08 20:45:00" start-time="2016-09-08 20:45:37" end-time="2016-09-08 21:08:07" duration="00:22:30" mark="no">
+      <title>Ljósan</title>
+      <original-title>The Delivery Man</original-title>
+      <description><![CDATA[Ný gamanþáttaröð um fyrrverandi lögreglumann sem ákveður að venda kvæði sínu í kross og gerast ljósmóðir. Eins og einhvern gæti grunað reynast fyrstu dagarnir í nýja starfinu honum erfiðir með dramatískum uppákomum og kaldhæðnum tilsvörum samferðafólksins. Leikarar: Darren Boyd, Fay Ripley og Paddy McGuinness.]]></description>
+      <short-description />
+      <rating />
+      <episode number="2" number-of-episodes="6" true="2" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/22466/22466-1.jpg</image>
+      <details id="22466">
+        <series-title>Ljósan</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Ný gamanþáttaröð um fyrrverandi lögreglumann sem ákveður að venda kvæði sínu í kross og gerast ljósmóðir. Eins og einhvern gæti grunað reynast fyrstu dagarnir í nýja starfinu honum erfiðir með dramatískum uppákomum og kaldhæðnum tilsvörum samferðafólksins. Leikarar: Darren Boyd, Fay Ripley og Paddy McGuinness.</p>
+        </series-description>
+        <series-short-description>
+          <p>Ný gamanþáttaröð um fyrrverandi lögreglumann sem ákveður að venda kvæði sínu í kross og gerast ljósmóðir.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="022466-0002">
+        <rights type="vod" action="allowed" pattern="+14d" expires="2016-09-22" />
+        <rights type="web" action="allowed" pattern="+14d" expires="2016-09-22" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4851014" serie-id="21519" time="2016-09-08 21:10:00" start-time="2016-09-08 21:10:47" end-time="2016-09-08 21:54:05" duration="00:43:18" mark="no">
+      <title>Vammlaus</title>
+      <original-title>No Offence</original-title>
+      <description><![CDATA[Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar. Það virðist vera ógjörningur að halda uppi lögum og reglu í þessum hluta borgarinnar en yfirmaður þeirra Vivienne Deering stappar stáli í undirmennina og fullvissar þá um mikilvægi starfsins.  Leikarar: Elaine Cassidy, Saira Choudhry og Julie Clerehugh. Atriði í þáttunum eru ekki við hæfi ungra barna.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="2" number-of-episodes="8" true="2" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21519/21519-1.jpg</image>
+      <details id="21519">
+        <series-title>Vammlaus</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar. Það virðist vera ógjörningur að halda uppi lögum og reglu í þessum hluta borgarinnar en yfirmaður þeirra Vivienne Deering stappar stáli í undirmennina og fullvissar þá um mikilvægi starfsins.  Leikarar: Elaine Cassidy, Saira Choudhry og Julie Clerehugh. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Bresk þáttaröð um lögreglumenn sem velta því fyrir sér hvers þeir eiga að gjalda að vinna í verstu fátækrahverfum Manchesterborgar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="021519-0002">
+        <rights type="vod" action="allowed" pattern="+14d" expires="2016-09-22" />
+        <rights type="web" action="allowed" pattern="+14d" expires="2016-09-22" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4849214" serie-id="21178" time="2016-09-08 22:00:00" start-time="2016-09-08 22:00:12" end-time="2016-09-08 22:15:12" duration="00:15:00" mark="no">
+      <title>Tíufréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="206" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21178/21178-1.jpg</image>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021178-0206">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+100d" expires="2016-12-17" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4849315" serie-id="21180" time="2016-09-08 22:15:00" start-time="2016-09-08 22:15:18" end-time="2016-09-08 22:18:18" duration="00:03:00" mark="no">
+      <title>Veðurfréttir</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="206" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21180/21180-1.jpg</image>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021180-0206">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4856151" serie-id="23471" time="2016-09-08 22:20:00" start-time="2016-09-08 22:22:54" end-time="2016-09-08 22:34:54" duration="00:12:00" mark="no">
+      <title>ÓL fatlaðra 2016: Samantekt</title>
+      <original-title />
+      <description><![CDATA[Samantekt frá viðburðum dagsins á Ólympíumóti fatlaðra í Ríó.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="11" true="1" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="5">Íþróttir</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/23471/23471-1.jpg</image>
+      <details id="23471">
+        <series-title>Ólympíumót fatlaðra - samantekt</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Samantekt frá viðburðum dagsins á Ólympíumóti fatlaðra í Ríó.</p>
+        </series-description>
+        <series-short-description>
+          <p>Samantekt frá viðburðum dagsins á Ólympíumóti fatlaðra í Ríó.</p>
+        </series-short-description>
+        <episode-description>
+          <p>Samantekt frá viðburðum dagsins á Ólympíumóti fatlaðra í Ríó.</p>
+        </episode-description>
+        <episode-short-description />
+      </details>
+      <podcast-category>Sports &amp; Recreation</podcast-category>
+      <rights reference="023471-0001">
+        <rights type="vod" action="denied" />
+        <rights type="web" action="denied" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+    </event>
+    <event event-id="4855643" serie-id="22840" time="2016-09-08 22:35:00" start-time="2016-09-08 22:39:15" end-time="2016-09-08 23:20:09" duration="00:40:54" mark="no">
+      <title>Glæpahneigð</title>
+      <original-title>Criminal Minds XI</original-title>
+      <description><![CDATA[Bandarísk þáttaröð um sérsveit lögreglumanna sem rýna í persónuleika hættulegra glæpamanna. Meðal leikenda eru Joe Mantegna, Thomas Gibson og Shemar Moore. Atriði í þáttunum eru ekki við hæfi barna.]]></description>
+      <short-description />
+      <rating>16</rating>
+      <episode number="22" number-of-episodes="22" true="22" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/22840/22840-1.jpg</image>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="022840-0022">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+30d" expires="2016-10-08" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4855634" serie-id="19005" time="2016-09-08 23:20:00" start-time="2016-09-08 23:21:44" end-time="2016-09-09 00:05:47" duration="00:44:03" mark="no">
+      <title>Dicte II</title>
+      <original-title />
+      <description><![CDATA[Dönsk sakamálaþáttaröð byggð á sögum eftir Elsebeth Egholm um Dicte Svendsen blaðamann í Árósum. Meðal leikenda eru Iben Hjejle, Lars Brygmann, Lars Ranthe, Ditte Ylva Olsen og Lærke Winther Andersen. Atriði í þáttunum eru ekki við hæfi ungra barna. e.]]></description>
+      <short-description />
+      <rating>12</rating>
+      <episode number="2" number-of-episodes="10" true="2" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>yes</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="2">Framhaldsþættir</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/19005/19005-1.jpg</image>
+      <details id="19005">
+        <series-title>Dicte</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Dönsk sakamálaþáttaröð byggð á sögum eftir Elsebeth Egholm um Dicte Svendsen blaðamann í Árósum.</p>
+          <p>Meðal leikenda eru Iben Hjejle, Lars Brygmann, Lars Ranthe, Ditte Ylva Olsen og Lærke Winther Andersen. Atriði í þáttunum eru ekki við hæfi ungra barna.</p>
+        </series-description>
+        <series-short-description>
+          <p>Dönsk sakamálaþáttaröð byggð á sögum eftir Elsebeth Egholm um Dicte Svendsen blaðamann í Árósum.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>Tv &amp; Film</podcast-category>
+      <rights reference="019005-0002">
+        <rights type="vod" action="allowed" pattern="+14d" expires="2016-09-22" />
+        <rights type="web" action="allowed" pattern="+14d" expires="2016-09-22" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+      <files ok="false" modified="2015-06-09 23:59:09">
+        <file format="windowsmedia" filename="4787094$9.wmv" folder="" start="21:02:31:07" expires="2015-06-22" quality="240" scopevalue="1" scope="domestic" event="4787094" />
+        <file format="vod" filename="4787094$6.ts" folder="" start="21:02:31:07" expires="2015-06-22" quality="240" scopevalue="1" scope="domestic" event="4787094" />
+        <file format="flash" filename="4787094R15.mp4" folder="" start="21:02:31:07" expires="2015-06-22" quality="240" scopevalue="1" scope="domestic" event="4787094" />
+        <file format="flash" filename="4787094K0.mp4" folder="" start="21:02:31:07" expires="2015-06-22" quality="187" scopevalue="1" scope="domestic" event="4787094" />
+        <file format="flash" filename="4787094M1.mp4" folder="" start="21:02:31:07" expires="2015-06-22" quality="0" scopevalue="1" scope="domestic" event="4787094" />
+        <file format="flash" filename="4787110M1.mp4" folder="" start="23:13:55:14" expires="2015-06-23" quality="0" scopevalue="1" scope="domestic" event="4787110" />
+      </files>
+    </event>
+    <event event-id="4853637" serie-id="21181" time="2016-09-09 00:10:00" start-time="2016-09-09 00:07:43" end-time="2016-09-09 00:37:43" duration="00:30:00" mark="no">
+      <title>Kastljós</title>
+      <original-title />
+      <description><![CDATA[Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson og Bergsteinn Sigurðsson. e.]]></description>
+      <short-description />
+      <rating />
+      <episode number="1" number-of-episodes="1" true="319" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>yes</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <subtitles>
+        <open>no</open>
+        <closed>no</closed>
+      </subtitles>
+      <category value="3">Fréttatengt</category>
+      <image>http://dagskra.servefir.ruv.is/kringlumyndir/21181/21181-1.jpg</image>
+      <details id="21181">
+        <series-title>Kastljós</series-title>
+        <series-original-title />
+        <series-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar. Umsjónarmenn: Þóra Arnórsdóttir, Helgi Seljan, Helga Arnardóttir, Baldvin Þór Bergsson, Bergsteinn Sigurðsson og Halla Oddný Magnúsdóttir.</p>
+        </series-description>
+        <series-short-description>
+          <p>Beittur, fréttatengdur þáttur um málefni líðandi stundar, menningu og dægurmál hvers konar.</p>
+        </series-short-description>
+        <episode-description />
+        <episode-short-description />
+      </details>
+      <podcast-category>News &amp; Politics</podcast-category>
+      <rights reference="021181-0319">
+        <rights type="vod" action="allowed" pattern="+30d" expires="2016-10-08" />
+        <rights type="web" action="allowed" pattern="+90d" expires="2016-12-07" />
+      </rights>
+      <stream scopevalue="2" scope="global" />
+      <files ok="false" modified="0001-01-01 00:00:00" />
+    </event>
+    <event event-id="4850623" serie-id="" time="2016-09-09 00:40:00" start-time="2016-09-09 00:40:00" end-time="2016-09-09 00:40:10" duration="00:00:10" mark="no">
+      <title>Dagskrárlok</title>
+      <original-title />
+      <description />
+      <short-description />
+      <rating />
+      <episode number="12" number-of-episodes="400" true="12" />
+      <subevent>no</subevent>
+      <live>no</live>
+      <rerun>no</rerun>
+      <aspect-ratio>
+        <size>16:9</size>
+        <anamorphic>yes</anamorphic>
+        <letterbox>no</letterbox>
+      </aspect-ratio>
+      <rights reference="4850623">
+        <rights type="vod" action="denied" />
+        <rights type="web" action="denied" />
+      </rights>
+      <stream scopevalue="1" scope="domestic" />
+    </event>
+  </service>
+</schedule>
